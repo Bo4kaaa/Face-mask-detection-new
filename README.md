@@ -15,10 +15,10 @@ A simple deep learning app that detects whether a person is wearing a mask or no
 ## 🧠 Model
 
 - Built with **TensorFlow / Keras**.  
-- CNN with 4 convolutional layers: 32, 32, 64, 128 filters.  
+- CNN with 4 convolutional layers: 32, 64 , 128 , 256 filters.  
 - Includes **ReLU activation**, **Batch Normalization**, **MaxPooling**, and **Dropout**.  
 - Final Dense layer with **Sigmoid** for binary classification.  
-- Achieved ~93% accuracy on test data.  
+- Achieved ~96% accuracy on test data.  
 
 ---
 
